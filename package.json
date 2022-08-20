@@ -1,0 +1,44 @@
+{
+  "name": "haramosh-theme",
+  "displayName": "Haramosh theme",
+  "description": "Dark theme created by @hcorta 🚀",
+  "publisher": "hcorta",
+  "license": "MIT",
+  "version": "1.0.0",
+  "categories": [
+    "Themes"
+  ],
+  "maintainers": [
+    "Hugo Corta <corta.hugo@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hcorta/haramosh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hcorta/haramosh/issues"
+  },
+  "engines": {
+    "vscode": "^1.13.0"
+  },
+  "keywords": [
+    "haramosh",
+    "hcorta",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#292929",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Haramosh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Haramosh-color-theme.json"
+      }
+    ]
+  }
+}
