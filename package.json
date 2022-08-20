@@ -40,5 +40,9 @@
         "path": "./themes/Haramosh-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
   }
 }
