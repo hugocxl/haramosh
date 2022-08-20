@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://storage.googleapis.com/golden-wind/github/Haramosh/Haramosh.png" alt="Haramosh Logo" width="100">
+  <img src="https://raw.githubusercontent.com/hcorta/haramosh/master/icon.png" alt="Haramosh Logo" width="100">
   <br>
   Haramosh for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img alt="Haramosh screnshoot for Visual Studio Code" src="https://i.imgur.com/vUQNEXV.png">
+  <img alt="Haramosh screnshoot for Visual Studio Code" src="https://raw.githubusercontent.com/hcorta/haramosh/master/screenshot.png">
 </p>
 
 ## Install
