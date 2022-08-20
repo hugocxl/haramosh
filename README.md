@@ -18,7 +18,6 @@
 
 <p align="center">
   <a href="#install">Install</a> •
-  <a href="#team">Team</a> •
   <a href="#license">License</a>
 </p>
 
